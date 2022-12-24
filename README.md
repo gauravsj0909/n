@@ -35,3 +35,5 @@ Replace it by https://newverceldomain.vercel.app/path
 When you post this new vercel link on facebook,
 It shows the post metadata and content from the vercel,
 When user click on this link it will redirect them to the actual wordpress domain.
+
+jhs
